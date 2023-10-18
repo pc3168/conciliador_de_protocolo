@@ -8,11 +8,11 @@
 		<version>2.7.15</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.natusfarma.pc</groupId>
+	<groupId>br.com.pc</groupId>
 	<artifactId>conector-sqlserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Conector-SqlServer</name>
-	<description>Conexão com múltiplos banco de dados.</description>
+	<description>Conexão com banco de dados SqlServer.</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
