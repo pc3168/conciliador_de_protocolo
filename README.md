@@ -128,7 +128,6 @@ Aqui estão exemplos de como usar os métodos do controlador:
 - Para enviar uma consulta a partir de um arquivo usando `POST /query/`:
 
 ```json
-POST /query/
 {
   choose: "FIRST",
   file: "arquivo.sql"  
@@ -141,7 +140,6 @@ curl -X POST "http://localhost:9090/query/?choose=FIRST" -H "accept: application
 
 - Para enviar uma consulta no corpo da solicitação usando `POST /query/body`:
 ```json
-POST /query/body
 {
     "choose": "FIRST",
     "query": "SELECT * FROM tabela"
