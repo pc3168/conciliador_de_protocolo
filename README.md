@@ -81,11 +81,6 @@ O projeto estará disponível em ```http://localhost:9090```.
 ## Documentação da API
 Este projeto utiliza o Swagger para fornecer documentação da API. Após iniciar o projeto, você pode acessar a documentação da API em ```http://localhost:9090/swagger-ui.html```.
 
-## Contribuição
-Sinta-se à vontade para contribuir com este projeto abrindo novas questões, sugerindo melhorias ou enviando solicitações de pull.
-
-## Autor
-Paulo César
 
 ## Controller
 
@@ -156,3 +151,9 @@ GET /query/url?choose=FIRST&query=SELECT * FROM tabela
 ```curl
 curl -X GET "http://localhost:9090/query/url?choose=FIRST&query=SELECT%20*%20FROM%20tabela" -H "accept: application/json"
 ```
+
+## Contribuição
+Sinta-se à vontade para contribuir com este projeto abrindo novas questões, sugerindo melhorias ou enviando solicitações de pull.
+
+## Autor
+Paulo César
