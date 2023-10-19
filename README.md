@@ -129,8 +129,8 @@ Aqui estão exemplos de como usar os métodos do controlador:
 
 ```json
 {
-  choose: "FIRST",
-  file: "arquivo.sql"  
+  "choose": "FIRST",
+  "file": "@/caminho/do/arquivo.sql;type=text/plain"  
 } 
 ```
 ```curl
