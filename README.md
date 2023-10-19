@@ -156,4 +156,4 @@ curl -X GET "http://localhost:9090/query/url?choose=FIRST&query=SELECT%20*%20FRO
 Sinta-se à vontade para contribuir com este projeto abrindo novas questões, sugerindo melhorias ou enviando solicitações de pull.
 
 ## Autor
-Paulo César
+- [Paulo César](https://github.com/pc3168)
